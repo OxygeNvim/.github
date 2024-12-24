@@ -1,6 +1,6 @@
 <div align="center">
   <h1>.github</h1>
-  <h2>Unified stuff for all OxygeNvim repos</h1>
+  <h2>Unified stuff for all OxygeNvim repos</h2>
 </div>
 
 <div align="center">
